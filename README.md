@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Where I am currently spending most of my time:
+<a href="https://tryhackme.com/p/QuantumPhysx">THM</a>
