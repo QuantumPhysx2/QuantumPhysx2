@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+  I fugging forked ur shite ajajajajajaj
+
 -->
 
 Where I am currently spending most of my time:
